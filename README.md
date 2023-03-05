@@ -12,20 +12,20 @@
     <a href="https://jorzon.github.io/wux/">Go to my portfolio</a>&nbsp;
   </p>
 </div>
-<br/>
+
 <p align="left">
-   Developer passionate to UX/UI Designer ❤️‍🔥<br/>
-   UX/UI Desginer passionate with code 🐉 <br/>
-   Designing user interfaces for a happier world with more love 🧡 <br/>
-   Developing pages for error 404 🌪 <br/>
+   ❤️‍ Developer passionate to UX/UI Designer <br/>
+   🕵️‍♂️ UX/UI Desginer passionate with code  <br/>
+   🧡 Designing user interfaces for a happier world with love<br/>
+   🌪 Developing pages for error 404  <br/>
 </p>
 <br/>
 <h2 align="leftr">Skill and Technology</h2>
 <div align="left">
     <img src="./assets/icons/react.svg"  height="27px"/>&nbsp;
-    <img src="./assets/icons/js.svg"  height="27px"/>&nbsp;
+    <img src="./assets/icons/js.svg"  height="27px"/>&nbsp;&nbsp;
     <img src="./assets/icons/html.svg"  height="33px"/>&nbsp;
-    <img src="./assets/icons/css-new.svg"  height="28px"/>&nbsp;
+    <img src="./assets/icons/css-new.svg"  height="30px"/>&nbsp;
     <img src="./assets/icons/git.svg"  height="31px"/>&nbsp;
     <img src="./assets/icons/figma-new.svg"  height="32px"/>&nbsp;
     <img src="./assets/icons/sketch.svg"  height="27px"/>&nbsp;
