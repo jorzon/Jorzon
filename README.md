@@ -24,13 +24,13 @@
 <div align="left">
     <img src="./assets/icons/react.svg"  height="27px"/>&nbsp;
     <img src="./assets/icons/js.svg"  height="27px"/>&nbsp;
-    <img src="./assets/icons/html.svg"  height="36px"/>&nbsp;
-    <img src="./assets/icons/css.svg"  height="28px"/>&nbsp;
+    <img src="./assets/icons/html.svg"  height="33px"/>&nbsp;
+    <img src="./assets/icons/css-new.svg"  height="28px"/>&nbsp;
     <img src="./assets/icons/git.svg"  height="31px"/>&nbsp;
-    <img src="./assets/icons/figma-new.svg"  height="55px"/>&nbsp;
-    <img src="./assets/icons/sketch.svg"  height="25px"/>&nbsp;
-    <img src="./assets/icons/zeplin.svg"  height="27px"/>&nbsp;
+    <img src="./assets/icons/figma-new.svg"  height="32px"/>&nbsp;
+    <img src="./assets/icons/sketch.svg"  height="27px"/>&nbsp;
+    <img src="./assets/icons/zeplin.svg"  height="30px"/>&nbsp;
     <img src="./assets/icons/overflow-new.svg"  height="35px"/>&nbsp;
-    <img src="./assets/icons/miro.svg"  height="26px"/>&nbsp;
+    <img src="./assets/icons/miro.svg"  height="28px"/>&nbsp;
 
 </div>
