@@ -4,7 +4,7 @@
   <br/>
   <br/>
   <p>
-    I’m bachelor of graphic design engineering with more than four years of experience, developing webs aplications and user interfaces to web and mobile . Allways I’m learnning different tecnology that are tendency around the world.
+    I’m bachelor of graphic design engineering with more than four years of experience,<b> developing webs aplications </b> and <b> user interfaces </b> to web and mobile . Allways I’m learnning different tecnology that are tendency around the world.
   </p>
   <p align="center">
     <a href="https://jorzon.github.io/app-clon-nexflit/">Download resume</a>&nbsp;
@@ -14,9 +14,10 @@
 </div>
 <br/>
 <p align="center">
-  Desarrollador entusiasta y apasionado 🧑‍💻<br/>
-   Desarrollando para hacer del mundo un lugar mejor 🌎<br/>
-  Siempre moviendo las manitas y con mucho 🧡
+   Developer passionate to UX/UI Designer ❤️‍🔥<br/>
+   UX/UI Desginer passionate with code 🐉 <br/>
+   Designing user interfaces for a happier world with more love 🧡 <br/>
+   Developing pages for error 404 🌪 <br/>
 </p>
 <br/>
 <h2 align="center">Skill and Technology</h2>
