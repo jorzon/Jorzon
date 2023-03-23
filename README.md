@@ -14,8 +14,8 @@
 </div>
 
 <p align="left">
-   ❤️‍ Developer passionate to UX/UI Designer <br/>
-   🕵️‍♂️ UX/UI Desginer passionate with code  <br/>
+   ❤️‍ Developer passionate with design <br/>
+   🕵️‍♂️ UX/UI Designer passionate with code  <br/>
    🧡 Designing user interfaces for a happier world with love<br/>
    🌪 Developing pages for error 404  <br/>
 </p>
